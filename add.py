@@ -1,8 +1,8 @@
-a=int(input("Enter first number:"))
-b=int(input("Enter second number:"))
+a = int ( input ( "Enter first number:" ) )
+b = int ( input ( "Enter second number:" ) )
 
-sum=0
+sum = 0
 
-sum=a+b
+sum = a + b
 
-print("Sum of a and b: ",sum)
+print ( "Sum of a and b: ", sum )
